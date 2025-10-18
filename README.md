@@ -75,3 +75,42 @@ A user-friendly design is **critical** for a booking platform because it directl
 | Designers (UI/UX) | <ul><li>Create the visual mockups and prototypes (as defined in the ""UI/UX Planning"" section).</li><li>Develop the style guide (colors, typography).</li><li>Conduct user research and testing.</li><li>Ensures the application is intuitive, aesthetically pleasing, and meets user needs from a usability standpoint.</li></ul> |
 | Quality Assurance/Testers | <ul><li>Develop and execute test plans (unit, integration, end-to-end).</li><li>Identify, document, and track bugs and defects.</li><li>Verify that new features meet the acceptance criteria.</li><li>Guarantees the quality and reliability of the application, ensuring a bug-free and trustworthy booking experience.</li></ul> |
 | DevOps Engineers | <ul><li>Set up and maintain CI/CD pipelines (automated testing and deployment).</li><li>Manage cloud infrastructure (hosting for frontend, backend, and database).</li><li>Monitor application performance and security post-deployment.</li><li>Enables rapid, consistent, and reliable deployment of new features to production environments.</li></ul> |
+
+## UI Component Patterns
+
+**Navbar:** A sticky header that appears on all pages. It includes Links to log in and sign up and search functionality. It has:
+<ul>
+  <li>Logo</li>
+  <li>Search component</li>
+  <li>Authentication links</li>
+</ul>
+
+**Property Card:** A component used to display a property summary in the listing view. It has:
+<ul>
+  <li>Property image</li>
+  <li>Property details</li>
+  <li>Review</li>
+  <li>Price</li>
+</ul>
+
+**Footer:** The bottom section of the page containing:
+<ul>
+  <li>Links to legal pages</li>
+  <li>Contact information</li>
+  <li>Help links</li>
+  <li>Quick links</li>
+</ul>
+
+**Search:** A dedicated section or modular form that allows users to input search criteria and apply filters. It has:
+<ul>
+  <li>Input for location</li>
+  <li>Date pickers</li>
+  <li>Input for number of guests</li>
+</ul>
+
+**Review Card:** A component used to display reviews from past customers. It has:
+<ul>
+  <li>User's image</li>
+  <li>User and trip details</li>
+  <li>Review</li>
+  </ul>
