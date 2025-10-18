@@ -63,3 +63,15 @@ A user-friendly design is **critical** for a booking platform because it directl
 * Secondary: Family - Quicksand, Weight - 500, Size - 20px
 * Headings: Family - Quicksand, Weight - 700, Size - 31 to 50px
 
+## Project Roles and Responsibilities
+
+| Role | Key Responsibilities  |
+| :--- | :--- |
+| Product Owner | <ul><li>Defines and prioritizes the product backlog.</li><li>Articulates the product vision and goals.</li><li>Accepts or rejects completed work.</li><li>Ensures the team is building the right product that delivers maximum business value and meets user needs.</li></ul> |
+| Scrum Master | <ul><li>Facilitates Scrum ceremonies (e.g., daily stand-ups, sprint planning).</li><li>Removes impediments (e.g., technical blockers, resource issues).</li><li>Coaches the team on agile principles.</li><li>Improves team efficiency and communication, ensuring a smooth development flow and adherence to process.</li><ul>|
+| Project Manager | <ul><li>Manages the project timeline, budget, and scope.</li><li>Coordinates communication across all roles and stakeholders.</li><li>Identifies and mitigates project risks.</li><li>Ensures the project is delivered on time and within budget by managing resources and expectations.</li></ul> |
+| Frontend Developers | <ul><li>Implement the UI/UX design using React and styling (e.g., property cards, detailed views).</li><li>Integrate with the backend API using Axios/Fetch.</li><li>Ensure the application is fully responsive and performs well.</li><li>Creates a smooth, fast, and visually appealing user experience, which is critical for user retention in a booking app.</li></ul> |
+| Backend Developers | <ul><li>Design and build the RESTful APIs.</li><li>Manage data storage, retrieval, and security (authentication, authorization).</li><li>Implement core business logic (e.g., booking validation, price calculation).</li><li>Provides the secure and scalable foundation that enables all core functionality and reliable data management.</li></ul> |
+| Designers (UI/UX) | <ul><li>Create the visual mockups and prototypes (as defined in the ""UI/UX Planning"" section).</li><li>Develop the style guide (colors, typography).</li><li>Conduct user research and testing.</li><li>Ensures the application is intuitive, aesthetically pleasing, and meets user needs from a usability standpoint.</li></ul> |
+| Quality Assurance/Testers | <ul><li>Develop and execute test plans (unit, integration, end-to-end).</li><li>Identify, document, and track bugs and defects.</li><li>Verify that new features meet the acceptance criteria.</li><li>Guarantees the quality and reliability of the application, ensuring a bug-free and trustworthy booking experience.</li></ul> |
+| DevOps Engineers | <ul><li>Set up and maintain CI/CD pipelines (automated testing and deployment).</li><li>Manage cloud infrastructure (hosting for frontend, backend, and database).</li><li>Monitor application performance and security post-deployment.</li><li>Enables rapid, consistent, and reliable deployment of new features to production environments.</li></ul> |
