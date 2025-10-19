@@ -79,6 +79,9 @@ A user-friendly design is **critical** for a booking platform because it directl
 * Secondary: Family - Quicksand, Weight - 500, Size - 20px
 * Headings: Family - Quicksand, Weight - 700, Size - 31 to 50px
 
+### Importance of identifying design properties in a mock-up design
+Identifying design properties like colors and typography in a mock-up is important because it ensures consistency across the application and significantly improves developer efficiency and minimizes guessing.
+
 ## Project Roles and Responsibilities
 
 | Role | Key Responsibilities  |
